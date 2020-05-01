@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "firstName": "Rory",
+      "lastName": "Conroy",
+      "email": "email@gmail.com",
+      "psw": "Password1",
+      "id": "cfd1c23e-383a-4a2b-9264-c3031b3e0a17"
+    },
+    {
+      "firstName": "Joshua",
+      "lastName": "McGee",
+      "email": "imelite98@gmail.com",
+      "psw": "RoverBoy5577889946775828288",
+      "id": "a619c4e9-89a8-4562-acc2-8858a72a1eae"
+    },
+    {
+      "firstName": "Mary",
+      "lastName": "Lyng",
+      "email": "mlyng@wit.ie",
+      "psw": "Trustno1",
+      "id": "9cfaca85-aa74-4a35-aec9-c0f94f614191"
+    },
+    {
+      "firstName": "rory",
+      "lastName": "conroy",
+      "email": "rory@gmail.com",
+      "psw": "Password1",
+      "id": "d20956cc-6f74-4715-872d-6d0b9d7b4e07"
+    },
+    {
+      "firstName": "Rory",
+      "lastName": "Conroy",
+      "email": "tester7@test.com",
+      "psw": "TestTestTest7",
+      "id": "a39f61b2-f41f-4eba-943d-df01405cada2"
+    }
+  ]
+}
